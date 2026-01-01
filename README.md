@@ -6,7 +6,13 @@ This Python script performs arithmetic operations:
 - Subtraction
 - Multiplication
 - Division
-- # Python Assignment 2
-- 1.  Takes a user's first name and last name as input.
-2.  Concatenates the first name and last name into a full name.
-3.  Prints a personalized greeting message using the full name.
+# Python Assignment – Greeting Program
+
+Author: Raj Kumar
+
+This program:
+1. Takes user's first name and last name as input.
+2. Combines them into a full name.
+3. Prints a personalized greeting message using the full name.
+
+
